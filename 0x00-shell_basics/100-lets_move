@@ -1,0 +1,2 @@
+#!bin/bish
+mv[[:upper:]]* /tmp/u
