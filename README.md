@@ -1,1 +1,1 @@
-Exercises on shell for alx
+Shell basics
